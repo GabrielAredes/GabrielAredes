@@ -1,9 +1,8 @@
 # 👋 Olá, eu sou o Gabriel Aredes
 
-**Desenvolvedor backend**, em busca da **primeira oportunidade na área**.
-Atualmente, foco meus estudos em **Node.js**, **criação de APIs REST** e **bancos de dados relacionais e não relacionais**.  
+**Desenvolvedor backend**, atualmente foco meus estudos em **Node.js**, **criação de APIs REST** e **bancos de dados relacionais e não relacionais**.  
 
-Sou estudante de **Sistemas de Informação na PUC Minas** e sigo aprendendo e aprimorando minhas habilidades todos os dias.
+Sou estudante de **Sistemas de Informação** e sigo aprendendo e aprimorando minhas habilidades todos os dias.
 
 ---
 
