@@ -11,7 +11,7 @@ Sou estudante de **Sistemas de Informação** e sigo aprendendo e aprimorando mi
 - **JavaScript** e **Programação Orientada a Objetos**
 - Criação e estruturação de **APIs REST**
 - Implementação de **buscas, filtros, paginação e tratamento de erros**
-- Conexão e manipulação de dados com **MongoDB**, **PostgreSQL** e **SQLite**
+- Conexão e manipulação de dados com **MongoDB**, **MySQL** e **SQLite**
 
 ---
 
@@ -20,7 +20,7 @@ Sou estudante de **Sistemas de Informação** e sigo aprendendo e aprimorando mi
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
