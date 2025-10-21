@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Gabriel Aredes
 
-<!--
-**GabrielAredes/GabrielAredes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desenvolvedor backend**, em busca da **primeira oportunidade na área**.
+Atualmente, foco meus estudos em **Node.js**, **criação de APIs REST** e **bancos de dados relacionais e não relacionais**.  
 
-Here are some ideas to get you started:
+Sou estudante de **Sistemas de Informação na PUC Minas** e sigo aprendendo e aprimorando minhas habilidades todos os dias.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📚 O que estou aprendendo
+- Desenvolvimento backend com **Node.js** e **Express**
+- **JavaScript** e **Programação Orientada a Objetos**
+- Criação e estruturação de **APIs REST**
+- Implementação de **buscas, filtros, paginação e tratamento de erros**
+- Conexão e manipulação de dados com **MongoDB**, **PostgreSQL** e **SQLite**
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+### 📫 Onde me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-aredes/)
+
+---
+
+💬 Sempre aberto a conversar sobre tecnologia, aprendizado e oportunidades na área de **desenvolvimento backend**.  
+🚀 Em constante evolução.
